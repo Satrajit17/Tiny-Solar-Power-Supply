@@ -28,7 +28,8 @@ Designed as a lightweight power source for low-power microcontroller projects.
 
 ## 📂 Files
 - **Gerbers/** → [GerbersForTinySolarPowerSupply.zip](https://github.com/user-attachments/files/22080973/GerbersForTinySolarPowerSupply.zip) 
-- **Documentation/** → Detailed PDF report  
+- **Documentation/** → [Tiny solar power supply.pdf](https://github.com/user-attachments/files/22080928/Tiny.solar.power.supply.pdf)
+
 
 ---
 
@@ -49,9 +50,6 @@ Designed as a lightweight power source for low-power microcontroller projects.
 ## 👨‍💻 Author
 **Satrajit Datta**  
 Electronics and Communication Engineering, NIT Agartala  
-[LinkedIn](https://www.linkedin.com/in/satrajit-datta-7503b22aa) | [GitHub](https://github.com/Satrajit17)<img width="1527" height="767" alt="Screenshot 2025-09-01 205542" src="https://github.com/user-attachments/assets/3d336cef-df23-4d30-9982-041be9dce7a0" />
-
+[LinkedIn](https://www.linkedin.com/in/satrajit-datta-7503b22aa) | [GitHub](https://github.com/Satrajit17)
 
 ---
-
-
